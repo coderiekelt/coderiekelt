@@ -3,8 +3,6 @@
 ### Hi there 👋
 How you doin
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NoWgenqW32M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ```
 According to all known laws
 of aviation,
